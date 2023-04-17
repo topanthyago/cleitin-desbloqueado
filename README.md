@@ -1,4 +1,4 @@
-# E se ensínassemos o que é a quinta série para o chatGPT?
+# E se ensinássimos o que é a quinta série para o chatGPT?
 ## Lhes apresento: 🔓 Cleitin Desbloqueado...
 
  1. [O que é um DAN?](#whatisdan)
